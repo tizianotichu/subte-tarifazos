@@ -12,6 +12,8 @@ Este proyecto analiza el impacto de los aumentos tarifarios del Subte de Buenos 
 
 > **¿Los aumentos en el precio del pasaje reducen efectivamente el uso del subte?**
 
+📊 **[Ver presentación completa](presentacion/presentacion_final.pdf)**
+
 ---
 
 ## 🗂️ Estructura del repositorio
