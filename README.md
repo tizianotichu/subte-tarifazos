@@ -17,7 +17,7 @@ Este proyecto analiza el impacto de los aumentos tarifarios del Subte de Buenos 
 ## 🗂️ Estructura del repositorio
 
 ```
-📦 subte-tarifazos-icd/
+📦 subte-tarifazos/
 ├── 📄 README.md
 ├── 📊 analisis_subte_tarifazos.Rmd   # Código principal del análisis
 ├── 📁 data/
